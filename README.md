@@ -15,4 +15,4 @@
 </p>
 
 <p>⚙️ Bachelor's degree in software engineering</p>
-<p>🌍 Live in Brazil</p>
+<p>🌍 Lives in Brazil</p>
